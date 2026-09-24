@@ -1,0 +1,12 @@
+# Text file normalization
+
+*.html linguist-vendored
+
+*.min.css linguist-generated
+
+go.sum linguist-generated
+*.htm linguist-vendored
+src/*.ts linguist-detectable
+
+*.sh text eol=lf   
+# eof 6ac05958
