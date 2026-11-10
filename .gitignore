@@ -1,0 +1,5 @@
+.env
+.pnpm-store/
+*.tgz
+node_modules/
+build/
